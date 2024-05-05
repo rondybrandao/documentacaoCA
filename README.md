@@ -4,7 +4,7 @@ Este repositório contém um catálogo de erros com suas soluções corresponden
 
 ## Categorias de Erros
 
-- [Erros Financeiros](Financeiro/Erros_Financeiros.md)
+- [Erros Financeiros](Financeiro/Erros_Financeiros)
 - [Erros de Vendas](Vendas/Erros_de_Vendas.md)
 - [Erros de Recursos Humanos](Recursos_Humanos/Erros_de_RH.md)
 - [Outros Erros](Outros/Outros_Erros.md)
